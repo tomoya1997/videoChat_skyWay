@@ -1,0 +1,16 @@
+{
+  "name": "skyway-video-chat",
+  "version": "1.0.0",
+  "description": "Video chat application using SkyWay WebRTC platform",
+  "main": "script.js",
+  "scripts": {
+    "dev": "python3 -m http.server 8083",
+    "start": "python3 -m http.server 8083"
+  },
+  "keywords": ["webrtc", "video-chat", "skyway", "javascript"],
+  "author": "tomoya97",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 16.0.0"
+  }
+}
